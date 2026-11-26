@@ -1,0 +1,26 @@
+Senior Python AI Engineer
+Location: Remote / Hybrid
+
+About the Role:
+We are looking for a Senior Python AI Engineer to design and ship production LLM applications, RAG pipelines, and workflow orchestration systems.
+
+Required Skills:
+- Strong proficiency in Python 3.11+ and software engineering best practices
+- Experience with LangChain and LangGraph for multi-step AI agent orchestration
+- Hands-on experience building Retrieval-Augmented Generation (RAG) pipelines and vector search
+- REST API or microservice integration, SQLite/PostgreSQL data modeling, and automated testing with Pytest
+- Experience deploying and evaluating LLMs such as Google Gemini and local Ollama models
+
+Preferred Skills:
+- Experience with Streamlit for rapid AI application interfaces
+- Familiarity with Model Context Protocol (MCP) / FastMCP tool servers
+- Docker and CI/CD pipelines
+
+Responsibilities:
+- Architect modular AI workflows for document parsing, semantic retrieval, and structured scoring
+- Collaborate with product teams to deliver transparent, reliable AI evaluations
+- Write comprehensive automated tests with mocked LLM responses and clean error handling
+
+Qualifications:
+- Bachelor's or Master's degree in Computer Science or related field
+- 3+ years of software engineering and applied AI experience
